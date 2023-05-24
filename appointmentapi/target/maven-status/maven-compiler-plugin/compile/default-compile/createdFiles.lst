@@ -1,0 +1,12 @@
+com\partha\appointment\response\AppointmentResponse.class
+com\partha\appointment\AppointmentapiApplication.class
+com\partha\appointment\service\AppointmentServiceImpl.class
+com\partha\appointment\dto\AppointmentRequest.class
+com\partha\appointment\repository\StatusRepository.class
+com\partha\appointment\repository\AppointmentRepository.class
+com\partha\appointment\entities\Appointment.class
+com\partha\appointment\controller\AppointmentBookingController.class
+com\partha\appointment\entities\Status.class
+com\partha\appointment\service\AppointmentService.class
+com\partha\appointment\dto\AppointmentResponse.class
+com\partha\appointment\utility\HelperUtility.class
